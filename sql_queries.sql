@@ -1,4 +1,3 @@
-```sql
 /*Geopolitical Shocks & Energy Markets (2010–2026)
 SQL scripts for BigQuery analyzing oil prices vs geopolitical risks
 ===========================================================================
@@ -100,5 +99,4 @@ price_analysis AS (
 SELECT *
 FROM price_analysis
 ORDER BY date DESC;
-```
 
