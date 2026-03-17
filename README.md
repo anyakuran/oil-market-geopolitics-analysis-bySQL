@@ -189,7 +189,8 @@ FROM price_analysis
 ORDER BY date DESC
 ```
 
-<img width="1243" height="541" alt="image" src="https://github.com/user-attachments/assets/d4aaed8c-944e-49f5-9c14-8ed67f4b787a" />
+<img width="1165" height="521" alt="image" src="https://github.com/user-attachments/assets/4d925590-ad6e-40e1-8e0e-4e7b4af18d66" />
+
 
 The analysis shows that oil price dynamics in Ukraine are heavily influenced by currency fluctuations rather than global oil prices alone.
 Even during periods of global price stability or decline (such as 2015 and 2020), domestic oil prices remained elevated or continued to grow due to the depreciation of the Ukrainian hryvnia (UAH).
